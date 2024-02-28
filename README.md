@@ -1,0 +1,2 @@
+# Coremark
+cpu test 
